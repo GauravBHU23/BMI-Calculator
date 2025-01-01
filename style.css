@@ -43,7 +43,7 @@ h3,
   font-weight: 700;
 }
 body {
-  background-color: cyan;
+  background-color: rgba(146, 211, 92, 0.9);
 }
 .btn:hover {
   color: white;
