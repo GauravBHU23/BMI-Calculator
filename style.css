@@ -1,0 +1,67 @@
+.navbar {
+  text-align: center;
+  padding: 10px 30px;
+  background-color: aqua;
+  border: 1px solid black;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  border-radius: 5px;
+  border: none;
+}
+.nav1 {
+  text-decoration: none;
+  text-align: center;
+  border: 1px solid #212121;
+  padding: 5px 30px;
+  margin: 5px;
+  border-radius: 4px;
+  background-color: white;
+}
+h1{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color:blueviolet;
+}
+h3,
+.para {
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  color: black;
+  font-weight: 700;
+
+}
+.container1 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 13px;
+  padding: 20px;
+}
+#results {
+  text-align: center;
+  color: blue;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 700;
+}
+body {
+  background-color: cyan;
+}
+.btn:hover {
+  color: white;
+  border-radius: 2px;
+  cursor: pointer;
+  border-radius: 4px;
+  background-color: blue;
+}
+.foot {
+  text-align: center;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  margin-top: 220px;
+  font-weight: 400;
+  background-color: blue;
+  color: white;
+  font-style: italic;
+}
+button{
+    padding: 7px 12px;
+    background-color:gold;
+}
